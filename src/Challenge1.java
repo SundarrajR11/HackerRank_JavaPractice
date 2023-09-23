@@ -27,8 +27,14 @@ public class Challenge1 {
 
     public static void main(String[] args) {
 
+        // Approach 1
+
         System.out.println("Hello, World.");
         System.out.println("Hello, Java.");
+
+        // Approach 2
+
+        System.out.println("Hello, World.\nHello, Java.");
 
     }
 
