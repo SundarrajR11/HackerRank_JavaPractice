@@ -37,5 +37,7 @@ public class Challenge2 {
         System.out.println(Second);
         System.out.println(Third);
 
+        sc.close();
+
     }
 }

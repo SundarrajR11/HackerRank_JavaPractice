@@ -56,6 +56,8 @@ public class Challenge4 {
         System.out.println("Double: "+ second);
         System.out.println("Int: "+ first);
 
+        sc.close();
+
 
 
 

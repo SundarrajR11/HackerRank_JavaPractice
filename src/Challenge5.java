@@ -22,6 +22,8 @@ public class Challenge5 {
         }
         System.out.println("================================");
 
+        sc.close();
+
     }
 
 }
