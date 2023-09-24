@@ -36,10 +36,27 @@
         More
         123456789*/
 
+import java.util.Scanner;
+
 public class Challenge4 {
 
 
     public static void main(String[] args) {
+
+
+        Scanner sc = new Scanner(System.in);
+
+        int first = sc.nextInt();
+        double second = sc.nextDouble();
+        sc.nextLine();
+        String third =sc.nextLine();
+
+
+        System.out.println("String: "+ third);
+        System.out.println("Double: "+ second);
+        System.out.println("Int: "+ first);
+
+
 
 
     }
