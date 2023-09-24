@@ -59,6 +59,8 @@ public class Challenge3 {
             System.out.println("Weird");
         }
 
+        sc.close();
+
 
 
 
